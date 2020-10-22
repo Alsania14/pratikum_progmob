@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PratikumProgmob</string>
+    <string name="aplikasi_volenteer">Aplikasi Volenteer</string>
+    <string name="login">Login</string>
+    <string name="all_right_reserved">All Right Reserved</string>
+    <string name="all_right_reserve">All Right Reserve</string>
+    <string name="register">register</string>
+    <string name="username">Username</string>
+    <string name="masukkan_username">Masukkan Username</string>
+    <string name="full_name">full Name</string>
+    <string name="password">Password</string>
+    <string name="masukkan_full_password">Masukkan Full password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="masukkan_full_name">Masukkan Full Name</string>
+    <string name="masukkan_passord_anda">Masukkan Passord Anda</string>
+    <string name="sign_in">Sign In</string>
+    <string name="hello">Hello</string>
+    <string name="volunteer">VOLUNTEER</string>
+    <string name="hakcipta">all right reserved</string>
+</resources>
